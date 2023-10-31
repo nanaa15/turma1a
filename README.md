@@ -1,2 +1,2 @@
-# turma1a
-arquivos da aula de pensamento computacional
+# Sitealura-GlowUp
+Site do curso de Alura
